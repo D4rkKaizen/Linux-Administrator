@@ -1,7 +1,7 @@
 
 ## Services:
 
-### $50 Classic:
+### Classic:
 
 - Server setup for stable operation and installation of the necessary bots.
 - Access to a support chat and guides for manual server work.
@@ -13,12 +13,12 @@ To get started, you will need:
 
 ---
 
-### $10-50 Individual
+### Individual
 
 - Individual issue correction on your server, the price depends on the complexity of the task.
 ---
 
-### $400/month Server Administration
+### per/month Server Administration
 #### Recommended only for large farms
 ###### Server administration, and all server-side operations will be handled by me. I will personally address all issues and details on the server.
 
