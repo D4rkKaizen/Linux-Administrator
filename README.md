@@ -26,4 +26,4 @@
 - Ежедневный мониторинг работы скриптов на сервере.
 - Регулярный отчет об состоянии фермы.
 -----------------------------------------------
-## [English version](System Administration Linux.md)
+## [English version](System-Administration-Linux.md)
