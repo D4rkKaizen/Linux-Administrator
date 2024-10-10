@@ -29,4 +29,4 @@ To get started, you will need:
 - Daily monitoring of scripts on the server.
 - Regular reports on the state of the farm.
 -----------------------------------------
-## Russian version
+## [Russian version](README.md)
